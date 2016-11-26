@@ -218,4 +218,6 @@ class: center, middle
 * Wikiの機能
 * 自動テストとの連携
 
+---
 
+# コミットするよ
